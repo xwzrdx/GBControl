@@ -8,6 +8,13 @@
 
 
 
+### How To Use:
+
+* Download the DLL from [here](https://github.com/xwzrdx/GBControl/releases/tag/v1.0)
+* Inject ``GBControl.dll`` using an injector
+* Press ``Insert`` (Ins) to open & close the menu.
+
+
 
 
 
