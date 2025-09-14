@@ -21,6 +21,7 @@
 ### Features:
 * Zoom FOV
 * Shoulder Swap (Third Person)
+* First Person ADS (Third Person)
 * Different Camera Modes (Both in Co-Op & Lone Wolf)
 * etc.
 
