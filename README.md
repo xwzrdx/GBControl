@@ -31,3 +31,4 @@
 * Only works for DX11 currently (DX12 soon)
 * Works for both Steam + SteamRIP versions.
 * If the menu doesn't work, it most likely means the game has been updated and will need an update here too!
+* If you want to support what I do, feel free to [buy me a coffee!](https://buymeacoffee.com/wzard)
