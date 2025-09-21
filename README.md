@@ -1,7 +1,7 @@
 # GBControl
 
 
-### DLL Menu for Ground Branch by me & [0xb7d](https://github.com/0xB7D)
+### DLL Menu for [Ground Branch](https://store.steampowered.com/app/16900/GROUND_BRANCH/) by me & [0xb7d](https://github.com/0xB7D)
 
 
 
